@@ -1,0 +1,116 @@
+.main-block{
+    background-color: aquamarine;
+    height: auto;
+    width: 400px;
+}
+
+.top-block{
+    height: 240px;
+    padding: 40px;
+    padding-bottom: 0px;
+    
+}
+.mid-block{
+    height: 180px;
+    padding: 40px;
+     
+}
+
+
+#red{
+    background-color:red;
+    height: 80px;
+   
+}
+
+#blue{
+    background-color:rgb(17, 0, 255);
+    height: 80px;
+}
+
+#green{
+    background-color:rgb(5, 151, 0);
+    height: 80px;
+}
+
+#red-second{
+    background-color:red;
+    height: 50px;
+    width: 106px;
+    float: left;
+}
+
+#green-second{
+    background-color:rgb(5, 151, 0);
+    height: 50px;
+    width: 106px;
+    float: left
+    
+}
+
+#blue-second{
+    background-color:rgb(17, 0, 255);
+    height: 50px;
+    width: 106px;
+    float: left
+    
+}
+
+#yellow{
+    background-color: yellow;
+    width: 320px;
+    height: 50px;
+    margin-top: 50px;
+}
+
+.mid-block-bottom{
+    height: 400px;
+    width: 400px;
+    display: flex;
+}
+
+#grey{
+    background-color:grey;
+    height: 80px;
+    width: 160px;
+    
+
+    
+}
+#black{
+    background-color:black;
+    height: 80px;
+    width: 160px;
+}
+
+#red-bottom{
+    background-color:red;
+    height: 60px;
+    width: 60px;
+    float: left;
+    margin-right: 50px;
+    margin-left: 10px;
+   
+}
+
+#green-bottom{
+    background-color:rgb(5, 151, 0);
+    height: 60px;
+    float: left;
+    
+    width: 60px;
+}
+
+#blue-bottom{
+    background-color:rgb(17, 0, 255);
+    height: 60px;
+    float: left;
+    margin-right: 50px;
+    width: 60px;
+}
+
+.bottom-block{
+    height: 100px;
+    margin: 40px;
+    text-align: center;
+}
